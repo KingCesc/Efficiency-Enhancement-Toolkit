@@ -58,6 +58,10 @@ Fastjson
 
 Jackson
 
+JSOUP
+
+MapStruct
+
 # 代码托管
 
 [Git Reference](https://git-scm.com/docs)
@@ -66,7 +70,7 @@ Jackson
 
 Gitlab
 
-Codeup
+[Aliyun Codeup](https://codeup.aliyun.com)
 
 # Docker And K8s
 
@@ -102,10 +106,33 @@ Codeup
 
 [全球海底光缆](https://www.submarinecablemap.com/)
 
+[Infrapedia](https://www.infrapedia.com/)
+
 # Tools
+
+[Arthas](https://arthas.aliyun.com/doc/)
+
+[SwitchHosts](https://swh.app/)
 
 [Spring initializr](https://start.spring.io/)
 
 [Spring Initializr Aliyun](https://start.aliyun.com/)
 
 [在线工具](https://tool.lu/)
+
+# 公共CDN
+[Staticfile](https://www.staticfile.net/)]
+
+[Google]()
+
+# JDK
+[openjdk](https://www.openlogic.com/openjdk-downloads)
+
+[oralce-jdk](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html)
+
+# DNS
+[AliDns](https://www.alidns.com/knowledge?type=SETTING_DOCS#user_linux)
+
+[Goole DNS](8.8.8.8/8.8.4.4)
+
+[Cloudflare](1.1.1.)
